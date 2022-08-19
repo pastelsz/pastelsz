@@ -10,7 +10,7 @@ Passo meus dias estudando programação, atualmente aprendendo Java com spring r
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastelsz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats%22%3E"
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pastelsz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaell-alves&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 
