@@ -1,16 +1,15 @@
-### Hi there 👋
+### Rafael Luis 😎👾
 
-<!--
-**pastelsz/pastelsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Olá, me chamo Daniel Marinho Menechini, atualmente estudante de Análise e Desenvolvimento de Sistemas (futuro dev fullstack).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passo meus dias estudando programação, atualmente aprendendo Java com spring rest.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Luis-282a36?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-marinho-9a3268130)](https://www.linkedin.com/in/daniel-marinho-9a3268130/) 
+[![Gmail Badge](https://img.shields.io/badge/-danielmenechinidev@gmail.com-282a36?style=flat-square&logo=Gmail&logoColor=red&link=mailto:danielmenechinidev@gmail.com)](mailto:danielmenechinidev@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastelsz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pastelsz&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
